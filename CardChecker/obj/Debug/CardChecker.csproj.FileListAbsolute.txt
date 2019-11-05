@@ -1,0 +1,15 @@
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\bin\Debug\CardChecker.exe.config
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\bin\Debug\CardChecker.exe
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\bin\Debug\CardChecker.pdb
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker.csprojResolveAssemblyReference.cache
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\MainWindow.g.cs
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\App.g.cs
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker_MarkupCompile.cache
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker_MarkupCompile.lref
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\MainWindow.baml
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker.g.resources
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker.Properties.Resources.resources
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker.csproj.GenerateResource.Cache
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker.csproj.CoreCompileInputs.cache
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker.exe
+C:\Users\Brooklyn\Desktop\CardChecker\CardChecker\obj\Debug\CardChecker.pdb
